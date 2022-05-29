@@ -2,7 +2,7 @@
 
 I created a fashion store website,viz Fashion Factory, that helps people to find different fashionable goods at max discount prices available all over the world.
 
-### My site is hosted on Azure static sites. link:https://mango-pond-0da1a0700.1.azurestaticapps.net/
+### Link to my site hosted using azure services https://mango-pond-0da1a0700.1.azurestaticapps.net/
 
 ### Demo video of my project [FashionFactory demo URL](https://amritauniv-my.sharepoint.com/:f:/g/personal/amenu4cse20120_am_students_amrita_edu/EogXRgByUANPkDy-NE2TDvsB-Yf5K8IBdpSD0C7yxYiZYA?e=X21eiZ)
 # Azure portal screen shot
@@ -28,6 +28,6 @@ I created a fashion store website,viz Fashion Factory, that helps people to find
 
 ![Screenshot (82).png](https://github.com/purush34/FRT/blob/547c453883fa31e977bd5fee628d03aee9a39394/assets/ScreenShots/About/Screenshot%20(82).png)
 
-## contact
+## Contact
 
 ![Screenshot (85).png](https://github.com/purush34/FRT/blob/547c453883fa31e977bd5fee628d03aee9a39394/assets/ScreenShots/contact/Screenshot%20(85).png)
