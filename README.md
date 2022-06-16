@@ -4,7 +4,7 @@ I created a fashion store website,viz Fashion Factory, that helps people to find
 
 ### Link to my site hosted using azure services https://mango-pond-0da1a0700.1.azurestaticapps.net/
 
-### Demo video of my project [FashionFactory demo URL](https://amritauniv-my.sharepoint.com/:f:/g/personal/amenu4cse20120_am_students_amrita_edu/EogXRgByUANPkDy-NE2TDvsB-Yf5K8IBdpSD0C7yxYiZYA?e=X21eiZ)
+### Demo video of my project [FashionFactory demo URL](https://youtu.be/C7wiBsDHW-0)
 # Azure portal screen shot
 
 ![Screenshot (86).png](https://github.com/purush34/FRT/blob/547c453883fa31e977bd5fee628d03aee9a39394/assets/ScreenShots/Az%20service/Screenshot%20(86).png)
